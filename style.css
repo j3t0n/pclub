@@ -348,7 +348,7 @@ div.price-box button:hover {
 .delivery {
   height: 300px;
   width: 49%;
-  background-image: url("../uploads/banners/ban1.png");
+  background-image: url("./uploads/banners/ban1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: right;
@@ -385,7 +385,7 @@ h2.info {
 .organic {
   height: 300px;
   width: 49%;
-  background-image: url("../uploads/banners/ban2.png");
+  background-image: url("./uploads/banners/ban2.png");
   background-position: right;
   display: flex;
   flex-direction: column;
@@ -521,7 +521,7 @@ li:hover {
   display: flex;
   flex-direction: column;
   padding-top: 50px;
-  background-image: url("../uploads/banners/ban1.png");
+  background-image: url("./uploads/banners/ban1.png");
 
 }
 
@@ -584,7 +584,7 @@ i.fa-solid.fa-star {
 }
 
 .section7 {
-  background-image: url("../uploads/banners/hero-background.png");
+  background-image: url("./uploads/banners/hero-background.png");
   background-repeat: no-repeat;
   background-size: cover;
   padding: 5px;
@@ -700,7 +700,4 @@ ul li{
 .fa-facebook, .fa-linkedin, .fa-instagram,.fa-twitter{
   font-size: 40px;
   color: white;
-}
-a li.get:active{
-  color:red;
 }
